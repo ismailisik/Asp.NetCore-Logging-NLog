@@ -10,8 +10,6 @@ E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\A
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\bin\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.Views.dll
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\bin\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.Views.pdb
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.csprojAssemblyReference.cache
-E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.csproj.CoreCompileInputs.cache
-E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.MvcApplicationPartsAssemblyInfo.cache
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.RazorAssemblyInfo.cache
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.RazorAssemblyInfo.cs
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.AssemblyInfoInputs.cache
@@ -35,3 +33,9 @@ E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\A
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.pdb
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.genruntimeconfig.cache
 E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.csproj.CopyComplete
+E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\bin\Debug\netcoreapp3.1\NLog.dll
+E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.csproj.CoreCompileInputs.cache
+E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\obj\Debug\netcoreapp3.1\Asp.NetCore.Logging.Nlog.MvcApplicationPartsAssemblyInfo.cache
+E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog\bin\Debug\netcoreapp3.1\nlog.config

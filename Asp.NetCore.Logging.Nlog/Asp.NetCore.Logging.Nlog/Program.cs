@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using NLog.Web;
 
 namespace Asp.NetCore.Logging.Nlog
 {
@@ -14,11 +15,14 @@ namespace Asp.NetCore.Logging.Nlog
     {
         public static void Main(string[] args)
         {
-            var host = CreateHostBuilder(args).Build(); //Bana Host bilgisi döner.
-            var logger = host.Services.GetRequiredService<ILogger<Program>>(); //Host bilgisinden servislerden ihtiyacým olanýn instancesini bana verir.
-            logger.LogInformation("Proje Ayaða Kalkýyor....."); //Output tan gözlemleyebilirsin.
+            //var host = CreateHostBuilder(args).Build(); //Bana Host bilgisi döner.
+            //var logger = host.Services.GetRequiredService<ILogger<Program>>(); //Host bilgisinden servislerden ihtiyacým olanýn instancesini bana verir.
+            //logger.LogInformation("Proje Ayaða Kalkýyor....."); //Output tan gözlemleyebilirsin.
 
-            host.Run(); //Tabiki run etmem lazým...
+            //host.Run(); //Tabiki run etmem lazým...
+
+
+            CreateHostBuilder(args).Build().Run();
         }
 
 
@@ -36,7 +40,9 @@ namespace Asp.NetCore.Logging.Nlog
                         //Custom oalrak hangi providerlarýn eklenmesini istiyorsak ekleyebiliriz.
                         logging.AddDebug();
 
-                    });
+                    }).UseNLog();
+
+                    //Nlog kullanýcaðýmý yukarýdaki gibi belirtiyorum...
                 });
     }
 }

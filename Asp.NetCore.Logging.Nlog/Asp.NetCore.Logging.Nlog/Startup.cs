@@ -15,12 +15,12 @@ namespace Asp.NetCore.Logging.Nlog
     public class Startup
     {
         //Startup ta loglama yapmak istiyorsak injecte edicez...
-        private readonly ILogger<Startup> _logger;
-
-        public Startup(IConfiguration configuration, ILogger<Startup> logger)
+        // private readonly ILogger _logger;
+        
+        public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            _logger = logger;
+            //this._logger = logger;
         }
 
         public IConfiguration Configuration { get; }
@@ -28,7 +28,7 @@ namespace Asp.NetCore.Logging.Nlog
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            _logger.LogInformation("Servisler Ayaða Kalkýyor...");
+           //this._logger.LogInformation("Servisler Ayaða Kalkýyor...");
 
             services.AddControllersWithViews();
         }

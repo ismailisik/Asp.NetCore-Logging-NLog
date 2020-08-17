@@ -1,0 +1,388 @@
+2020-08-16 14:25:54.9933||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 14:25:55.1527||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 14:25:55.5266||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 14:25:55.5266||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 14:25:55.5266||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 14:25:55.5895|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 14:25:55.5895|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 14:25:55.6253|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:25:55.7093|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 14:25:55.7150||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:55.7150||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:55.7150||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:55.7150||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:55.7701|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 14:25:55.9834|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 223.5054ms. 
+2020-08-16 14:25:55.9834|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 274.9954ms 
+2020-08-16 14:25:55.9834|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:25:56.0065|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 418.1589ms 200 text/html; charset=utf-8 
+2020-08-16 14:25:59.4922|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 14:25:59.4974|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:25:59.4974|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 14:25:59.4974||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:59.5092||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:59.5092||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:59.5092||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:25:59.5092|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 14:25:59.5382|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 15.4969ms. 
+2020-08-16 14:25:59.5382|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 34.9641ms 
+2020-08-16 14:25:59.5562|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:25:59.5562|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 67.56830000000001ms 200 text/html; charset=utf-8 
+2020-08-16 14:27:31.3604||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 14:27:31.4979||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 14:27:31.7621||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 14:27:31.7621||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 14:27:31.7753||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 14:27:31.8133|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 14:27:31.8231|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 14:27:31.8472|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:27:31.9059|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 14:27:31.9059||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:27:31.9059||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:27:31.9059||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:27:31.9059||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:27:31.9395|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 14:27:32.0875|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 155.3826ms. 
+2020-08-16 14:27:32.0976|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 190.0016ms 
+2020-08-16 14:27:32.1180|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:27:32.1240|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 312.848ms 200 text/html; charset=utf-8 
+2020-08-16 14:28:17.8263||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 14:28:18.0351||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 14:28:18.3451||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 14:28:18.3651||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 14:28:18.3774||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 14:28:18.4109|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 14:28:18.4254|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 14:28:18.4555|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:28:18.5123|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 14:28:18.5123||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:28:18.5123||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:28:18.5265||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:28:18.5265||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 14:28:18.5594|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 14:28:18.7539|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 196.93550000000002ms. 
+2020-08-16 14:28:18.8078|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 245.51790000000003ms 
+2020-08-16 14:28:18.8385|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 14:28:18.8385|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 438.1739ms 200 text/html; charset=utf-8 
+2020-08-16 17:29:41.8800||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 17:29:42.0779||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 17:29:42.4366||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 17:29:42.4366||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 17:29:42.4524||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 17:29:42.5110|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 17:29:42.5268|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 17:29:42.5556|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 17:29:42.6394|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 17:29:42.6394||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:29:42.6537||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:29:42.6537||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:29:42.6537||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:29:42.6998|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 17:29:42.9060|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 214.0534ms. 
+2020-08-16 17:29:42.9060|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 266.1907ms 
+2020-08-16 17:29:42.9202|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 17:29:42.9600|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0   
+2020-08-16 17:29:42.9870|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 432.60560000000004ms 200 text/html; charset=utf-8 
+2020-08-16 17:29:42.9870|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/css/site.css   
+2020-08-16 17:29:43.0110|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/lib/bootstrap/dist/css/bootstrap.min.css   
+2020-08-16 17:29:43.0354|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified 
+2020-08-16 17:29:43.0572|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /js/site.js was not modified 
+2020-08-16 17:29:43.0783|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /css/site.css was not modified 
+2020-08-16 17:29:43.0783|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/lib/bootstrap/dist/js/bootstrap.bundle.min.js   
+2020-08-16 17:29:43.0939|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 133.1268ms 304 application/javascript 
+2020-08-16 17:29:43.1231|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 133.125ms 304 text/css 
+2020-08-16 17:29:43.1390|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified 
+2020-08-16 17:29:43.1390|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 98.953ms 304 text/css 
+2020-08-16 17:29:43.1507|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/lib/jquery/dist/jquery.min.js   
+2020-08-16 17:29:43.2283|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 72.52420000000001ms 304 application/javascript 
+2020-08-16 17:29:43.2730|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /lib/jquery/dist/jquery.min.js was not modified 
+2020-08-16 17:29:43.3754|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 140.4727ms 304 application/javascript 
+2020-08-16 17:32:12.6346||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 17:32:12.8183||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 17:32:13.4405||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 17:32:13.4575||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 17:32:13.4747||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 17:32:13.5114|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 17:32:13.5303|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 17:32:13.5988|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 17:32:13.7004|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 17:32:13.7004||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:32:13.7123||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:32:13.7123||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:32:13.7123||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:32:13.7523|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 17:32:13.9949|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 249.717ms. 
+2020-08-16 17:32:13.9949|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 294.9436ms 
+2020-08-16 17:32:13.9949|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 17:32:14.0153|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 505.19960000000003ms 200 text/html; charset=utf-8 
+2020-08-16 17:38:18.4855||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 17:38:18.6728||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 17:38:18.9149||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 17:38:18.9256||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 17:38:18.9396||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 17:38:18.9756|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 17:38:18.9923|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 17:38:19.0222|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 17:38:19.0986|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 17:38:19.1067||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:38:19.1067||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:38:19.1192||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:38:19.1192||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 17:38:19.1592|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 17:38:19.3489|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 203.0285ms. 
+2020-08-16 17:38:19.3544|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 250.82340000000002ms 
+2020-08-16 17:38:19.3544|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 17:38:19.3919|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 409.6779ms 200 text/html; charset=utf-8 
+2020-08-16 18:05:44.5786||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 18:05:44.7463||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:05:45.0039||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:05:45.0039||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:05:45.0234||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:05:45.0618|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:05:45.0769|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:05:45.1048|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:05:45.1631|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:05:45.1715||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:05:45.1715||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:05:45.1715||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:05:45.1905||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:05:45.2558|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:05:45.5110|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 264.2427ms. 
+2020-08-16 18:05:45.5213|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 350.2142ms 
+2020-08-16 18:05:45.5451|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:05:45.5751|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 513.0252ms 200 text/html; charset=utf-8 
+2020-08-16 18:13:21.7504||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 18:13:22.0970||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:13:22.3572||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:13:22.3700||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:13:22.3790||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:13:22.4172|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:13:22.4304|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:13:22.4580|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:13:22.5168|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:13:22.5168||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:22.5341||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:22.5341||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:22.5341||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:22.5888|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:13:22.7658|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 191.47660000000002ms. 
+2020-08-16 18:13:22.7658|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 249.26870000000002ms 
+2020-08-16 18:13:22.7858|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:13:22.8228|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 399.6426ms 200 text/html; charset=utf-8 
+2020-08-16 18:13:50.4396||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 18:13:50.5724||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:13:50.8500||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:13:50.8583||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:13:50.8831||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:13:50.9255|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:13:50.9379|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:13:50.9668|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:13:51.0564|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:13:51.0631||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:51.0631||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:51.0631||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:51.0631||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:13:51.1040|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:13:51.2525|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 156.6115ms. 
+2020-08-16 18:13:51.2525|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 196.8629ms 
+2020-08-16 18:13:51.2525|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:13:51.2903|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 350.1101ms 200 text/html; charset=utf-8 
+2020-08-16 18:17:09.3537||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 18:17:09.5432||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:17:09.7797||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:17:09.7913||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:17:09.8018||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:17:09.8357|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:17:09.8491|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:17:09.8784|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:17:09.9344|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:17:09.9422||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:09.9422||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:09.9422||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:09.9553||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:09.9921|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:17:10.1593|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 173.6336ms. 
+2020-08-16 18:17:10.2127|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 229.7153ms 
+2020-08-16 18:17:10.2303|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:17:10.2446|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 409.1848ms 200 text/html; charset=utf-8 
+2020-08-16 18:17:59.5935|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:17:59.5935|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:17:59.6238|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:17:59.6403||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:59.6403||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:59.6589||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:59.6589||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:17:59.6771|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:17:59.6916|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 15.492500000000001ms. 
+2020-08-16 18:17:59.6916|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 63.137600000000006ms 
+2020-08-16 18:17:59.7049|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:17:59.7049|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 120.1849ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:00.4041|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/Home/Privacy   
+2020-08-16 18:18:00.4144|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:00.4218|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:00.4218|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Privacy. 
+2020-08-16 18:18:00.4375|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Privacy executed in 11.799100000000001ms. 
+2020-08-16 18:18:00.4375|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog) in 17.1126ms 
+2020-08-16 18:18:00.4375|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:00.4555|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 52.6007ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:01.1745|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:18:01.1745|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:01.1878|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:01.1878||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:01.1878||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:01.2052||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:01.2052||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:01.2191|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:18:01.2191|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 9.4696ms. 
+2020-08-16 18:18:01.2356|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 41.4151ms 
+2020-08-16 18:18:01.2356|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:01.2356|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 72.6311ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:01.8536|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/Home/Privacy   
+2020-08-16 18:18:01.8627|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:01.8627|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:01.8627|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Privacy. 
+2020-08-16 18:18:01.8839|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Privacy executed in 7.1431000000000004ms. 
+2020-08-16 18:18:01.8916|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog) in 18.5713ms 
+2020-08-16 18:18:01.8916|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:01.8916|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 53.098600000000005ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:02.3269|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:18:02.3269|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:02.3269|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:02.3437||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:02.3437||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:02.3817||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:02.3817||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:02.3961|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:18:02.4055|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 10.142800000000001ms. 
+2020-08-16 18:18:02.4055|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 65.9811ms 
+2020-08-16 18:18:02.4299|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:02.4299|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 107.6695ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:02.7432|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/Home/Privacy   
+2020-08-16 18:18:02.7482|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:02.7482|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:02.7482|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Privacy. 
+2020-08-16 18:18:02.7645|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Privacy executed in 5.718100000000001ms. 
+2020-08-16 18:18:02.7645|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog) in 10.2154ms 
+2020-08-16 18:18:02.7645|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:02.7645|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 35.1418ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:03.1604|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:18:03.1604|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:03.1730|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:03.1730||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:03.1730||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:03.1873||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:03.1873||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:03.1873|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:18:03.2031|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 6.4331000000000005ms. 
+2020-08-16 18:18:03.2031|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 30.616300000000003ms 
+2020-08-16 18:18:03.2031|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:03.2201|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 58.232800000000005ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:03.5172|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/Home/Privacy   
+2020-08-16 18:18:03.5172|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:03.5172|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:03.5319|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Privacy. 
+2020-08-16 18:18:03.5319|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Privacy executed in 8.7856ms. 
+2020-08-16 18:18:03.5470|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog) in 13.9595ms 
+2020-08-16 18:18:03.5470|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Privacy (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:03.5470|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 41.6271ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:04.6979|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:18:04.7041|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:04.7041|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:04.7041||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:04.7175||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:04.7175||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:04.7175||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:04.7175|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:18:04.7407|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 7.043ms. 
+2020-08-16 18:18:04.7407|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 32.2792ms 
+2020-08-16 18:18:04.7513|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:04.7513|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 58.121ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:05.0133|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:18:05.0195|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:05.0195|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:05.0195||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.0322||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.0322||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.0322||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.0322|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:18:05.0526|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 7.1913ms. 
+2020-08-16 18:18:05.0526|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 30.0572ms 
+2020-08-16 18:18:05.0640|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:05.0640|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 55.6559ms 200 text/html; charset=utf-8 
+2020-08-16 18:18:05.6077|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:18:05.6135|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:05.6135|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:18:05.6135||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.6297||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.6297||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.6423||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:18:05.6423|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:18:05.6573|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 8.5207ms. 
+2020-08-16 18:18:05.6573|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 40.0073ms 
+2020-08-16 18:18:05.6745|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:18:05.6745|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 71.6521ms 200 text/html; charset=utf-8 
+2020-08-16 18:21:37.9364||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 18:21:38.0836||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:21:38.3448||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:21:38.3448||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:21:38.3672||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:21:38.4051|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:21:38.4051|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:21:38.4468|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:21:38.5172|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:21:38.5172||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:38.5312||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:38.5312||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:38.5312||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:38.5685|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:21:38.7260|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 162.9768ms. 
+2020-08-16 18:21:38.7260|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 208.6662ms 
+2020-08-16 18:21:38.7417|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:21:38.7725|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 360.8969ms 200 text/html; charset=utf-8 
+2020-08-16 18:21:41.3467|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:21:41.3467|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:21:41.3630|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:21:41.3630||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:41.3786||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:41.3786||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:41.3937||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:21:41.3937|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:21:41.4221|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 22.7724ms. 
+2020-08-16 18:21:41.4450|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 67.0404ms 
+2020-08-16 18:21:41.4605|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:21:41.4672|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 122.8708ms 200 text/html; charset=utf-8 
+2020-08-16 18:55:53.0991||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... 
+2020-08-16 18:55:53.3430||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:55:53.9972||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:55:54.0131||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:55:54.0243||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:55:54.0808|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:55:54.1113|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:55:54.1739|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:55:54.2750|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:55:54.2970||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:55:54.2970||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:55:54.3135||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:55:54.3135||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:55:54.3694|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:55:54.7907|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 431.76370000000003ms. 
+2020-08-16 18:55:54.7978|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 516.0011000000001ms 
+2020-08-16 18:55:54.8455|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:55:54.8687|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 780.5312ms 200 text/html; charset=utf-8 
+2020-08-16 18:57:09.5346||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\iisik\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-08-16 18:57:10.0270||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 18:57:10.0442||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 18:57:10.0471||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 18:57:10.0810|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:59950/   
+2020-08-16 18:57:10.0988|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 18:57:10.1526|0|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:57:10.2384|3|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Asp.NetCore.Logging.Nlog.Controllers.HomeController (Asp.NetCore.Logging.Nlog). 
+2020-08-16 18:57:10.2384||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:57:10.2528||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:57:10.2528||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:57:10.2528||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 18:57:10.2940|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2020-08-16 18:57:10.4636|4|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 176.44ms. 
+2020-08-16 18:57:10.4695|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog) in 225.964ms 
+2020-08-16 18:57:10.4695|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'Asp.NetCore.Logging.Nlog.Controllers.HomeController.Index (Asp.NetCore.Logging.Nlog)' 
+2020-08-16 18:57:10.4917|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 411.5013ms 200 text/html; charset=utf-8 

@@ -1,0 +1,113 @@
+2020-08-16 14:25:54.9933||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 14:25:55.5895|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 14:25:55.7150||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:55.7150||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:55.7150||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:55.7150||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:59.4974||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:59.5092||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:59.5092||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:25:59.5092||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:27:31.3604||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 14:27:31.8231|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 14:27:31.9059||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:27:31.9059||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:27:31.9059||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:27:31.9059||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:28:17.8263||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 14:28:18.4254|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 14:28:18.5123||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:28:18.5123||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:28:18.5265||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 14:28:18.5265||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:29:41.8800||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 17:29:42.5268|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 17:29:42.6394||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:29:42.6537||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:29:42.6537||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:29:42.6537||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:32:12.6346||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 17:32:13.5303|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 17:32:13.7004||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:32:13.7123||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:32:13.7123||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:32:13.7123||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:38:18.4855||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 17:38:18.9923|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 17:38:19.1067||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:38:19.1067||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:38:19.1192||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 17:38:19.1192||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:05:44.5786||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 18:05:45.0769|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:05:45.1715||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:05:45.1715||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:05:45.1715||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:05:45.1905||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:21.7504||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 18:13:22.4304|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:13:22.5168||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:22.5341||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:22.5341||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:22.5341||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:50.4396||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 18:13:50.9379|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:13:51.0631||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:51.0631||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:51.0631||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:13:51.0631||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:09.3537||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 18:17:09.8491|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:17:09.9422||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:09.9422||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:09.9422||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:09.9553||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:59.6403||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:59.6403||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:59.6589||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:17:59.6589||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:01.1878||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:01.1878||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:01.2052||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:01.2052||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:02.3437||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:02.3437||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:02.3817||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:02.3817||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:03.1730||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:03.1730||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:03.1873||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:03.1873||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:04.7041||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:04.7175||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:04.7175||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:04.7175||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.0195||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.0322||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.0322||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.0322||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.6135||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.6297||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.6297||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:18:05.6423||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:37.9364||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 18:21:38.4051|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:21:38.5172||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:38.5312||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:38.5312||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:38.5312||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:41.3630||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:41.3786||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:41.3786||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:21:41.3937||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:55:53.0991||INFO|Asp.NetCore.Logging.Nlog.Program|Proje Ayağa Kalkıyor..... |url: |action: 
+2020-08-16 18:55:54.1113|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:55:54.2970||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:55:54.2970||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:55:54.3135||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:55:54.3135||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:57:10.0988|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/|action: 
+2020-08-16 18:57:10.2384||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:57:10.2528||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:57:10.2528||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index
+2020-08-16 18:57:10.2528||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance |url: http://localhost/|action: Index

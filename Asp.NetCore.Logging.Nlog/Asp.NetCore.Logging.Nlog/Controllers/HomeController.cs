@@ -12,14 +12,14 @@ namespace Asp.NetCore.Logging.Nlog.Controllers
     public class HomeController : Controller
     {
         //Burada benden bir kategory name istiyor. HomeController verirsek artık loglama yapacağı zaman bu ismi category name kullanacak.
-        //private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<HomeController> _logger;
 
         //Peki ben custom bir category name vermek ister isem aşağya bakınız...
-        private readonly ILoggerFactory _loggerFactory;
+        //private readonly ILoggerFactory _loggerFactory;
 
-        public HomeController(ILoggerFactory loggerFactory)
+        public HomeController(ILogger<HomeController> logger)
         {
-            _loggerFactory = loggerFactory;
+            _logger = logger;
         }
 
         public IActionResult Index()
@@ -34,6 +34,8 @@ namespace Asp.NetCore.Logging.Nlog.Controllers
             //Önemli Not: Log providerlar ile ilgili ayarlar için Program.cs'e bakınız.
             //Önemli Not: Program.cs te loglama yapmak istersem nasıl yapıcam. Program.cs'e bakınız.
             //Önemli Not: StartUp'ta loglama yapıcam nasıl yaparım. Sturtup.cs'e bakınız.
+            //Önemli Not: Nlog kütphanesi nasıl projemize entegre edildi. Program.cs class'sına bakınız...
+
 
             //_logger.LogWarning("Index Controller Enterance");
             //_logger.LogError("Index Controller Enterance");
@@ -41,14 +43,14 @@ namespace Asp.NetCore.Logging.Nlog.Controllers
             //_logger.LogTrace("Index Controller Enterance");
             //_logger.LogDebug("Index Controller Enterance");
 
-            var logger = _loggerFactory.CreateLogger("Home Sınıfı Loglama"); //Artık categoryName Home Sınıfı Loglama oldu.
+            //var logger = _loggerFactory.CreateLogger("Home Sınıfı Loglama"); //Artık categoryName Home Sınıfı Loglama oldu.
 
-            logger.LogTrace("Index Controller Enterance");
-            logger.LogWarning("Index Controller Enterance");
-            logger.LogError("Index Controller Enterance");
-            logger.LogCritical("Index Controller Enterance");
-            logger.LogDebug("Index Controller Enterance");
-            logger.LogInformation("Index Controller Enterance");
+            _logger.LogTrace("Index Controller Enterance");
+            _logger.LogWarning("Index Controller Enterance");
+            _logger.LogError("Index Controller Enterance");
+            _logger.LogCritical("Index Controller Enterance");
+            _logger.LogDebug("Index Controller Enterance");
+            _logger.LogInformation("Index Controller Enterance");
 
             //Yukarıda ben birçok seviyede loglama yapsam dahi appsettings.js dosyasında default olarak belirlediğim seviye ve onun altını loglayacaktır.
 
