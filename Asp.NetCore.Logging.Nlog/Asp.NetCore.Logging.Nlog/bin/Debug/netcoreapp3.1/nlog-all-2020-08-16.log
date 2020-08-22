@@ -1,0 +1,170 @@
+2020-08-16 19:07:27.6380||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:07:27.6654|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 19:07:27.6970||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:07:27.7129||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:07:27.8378||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:07:27.8378||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:07:27.8471||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:07:27.8471||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:07:27.8609||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:07:27.8609||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:01.8134||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:13:01.8539|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 19:13:01.8832||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:13:01.9004||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:13:02.0213||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:02.0213||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:02.0317||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:02.0317||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:02.0317||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:02.0317||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:04.6296||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:04.6296||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:04.6412||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:04.6412||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:04.6602||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:04.6602||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:05.5761||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:05.5862||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:05.5945||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:05.5945||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:05.6102||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:05.6102||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:06.1617||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:06.1750||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:06.1750||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:06.1869||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:06.1869||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:13:06.1869||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:14:47.9673||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:14:48.0115|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 19:14:48.1379||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:14:48.2037||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:14:48.3793||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:14:48.3897||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:14:48.3897||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:14:48.3897||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:14:48.3897||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:14:48.3897||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:15:32.3667||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:15:32.4089|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 19:15:32.4514||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:15:32.4730||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:15:32.5841||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:15:32.5930||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:15:32.5930||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:15:32.5930||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:15:32.5930||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:15:32.6108||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:44.9558||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:44.9675||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:44.9675||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:44.9840||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:44.9840||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:44.9840||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:53.1942||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:53.2251||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:53.2431||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:53.2513||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:53.2513||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:17:53.2513||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:18:09.6313||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:18:09.6644|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-08-16 19:18:09.6874||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:18:09.7098||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:18:09.8239||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:18:09.8356||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:18:09.8356||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:18:09.8447||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:18:09.8447||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:18:09.8447||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.2149||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:19:22.2865||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:19:22.3065||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:19:22.4208||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4208||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4416||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4416||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4416||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4517||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4517||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4517||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4517||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4517||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4699||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:19:22.4699||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:13.5890||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:26:13.6925||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:26:13.7252||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:26:13.8367||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:13.9581||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:13.9936||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:14.0005||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:14.0005||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:14.0186||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:19.2200||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:19.2200||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:19.2200||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:19.2391||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:19.2391||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:19.2538||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:56.2148||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:56.2378||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:56.2559||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:56.2658||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:56.2658||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:56.2859||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.2598||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.2690||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.2690||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.2690||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.2858||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.2858||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.9502||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.9551||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.9551||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.9551||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.9672||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:57.9672||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:58.6398||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:58.6398||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:58.6398||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:58.6580||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:58.6580||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:58.6580||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:59.3600||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:59.3734||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:59.3734||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:59.3734||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:59.3734||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:26:59.3927||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:27:04.9513||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:27:04.9624||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:27:04.9802||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:27:04.9913||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:27:04.9913||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:27:05.0011||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:26.9428||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:29:27.0012||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:29:27.0330||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:29:27.1223||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:27.1340||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:27.1340||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:27.1411||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:27.1411||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:27.1411||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:30.9085||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:30.9085||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:30.9085||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:30.9272||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:30.9272||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:29:30.9373||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:35:48.5615||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-08-16 19:35:48.6971||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-08-16 19:35:48.7732||INFO|Microsoft.Hosting.Lifetime|Content root path: E:\ProjectandWork\GithubWork\Asp.NetCore-Logging-NLog\Asp.NetCore.Logging.Nlog\Asp.NetCore.Logging.Nlog 
+2020-08-16 19:35:48.9067||TRACE|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:35:48.9248||WARN|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:35:48.9248||ERROR|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:35:48.9365||FATAL|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:35:48.9365||DEBUG|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 
+2020-08-16 19:35:48.9365||INFO|Asp.NetCore.Logging.Nlog.Controllers.HomeController|Index Controller Enterance 

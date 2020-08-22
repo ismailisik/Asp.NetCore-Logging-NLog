@@ -8,14 +8,19 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 
 namespace Asp.NetCore.Logging.Nlog
 {
     public class Startup
     {
+        //Startup ta loglama yapmak istiyorsak injecte edicez...
+        // private readonly ILogger _logger;
+        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //this._logger = logger;
         }
 
         public IConfiguration Configuration { get; }
@@ -23,6 +28,8 @@ namespace Asp.NetCore.Logging.Nlog
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+           //this._logger.LogInformation("Servisler Ayaða Kalkýyor...");
+
             services.AddControllersWithViews();
         }
 
